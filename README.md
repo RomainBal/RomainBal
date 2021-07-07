@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Romain
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Scala and SQL language
+- 📫 How to reach me on linkedin : https://www.linkedin.com/in/romain-baleynaud/
